@@ -29,7 +29,7 @@ export class CarouselComponent implements OnInit, OnDestroy {
   // Default images if none provided
   defaultImages: CarouselImage[] = [
     {
-      src: '/assets/images/carousel/consultorio1.jpeg',
+      src: 'assets/images/carousel/consultorio1.jpeg',
       alt: 'Instalações Modernas',
       title: 'Instalações Modernas',
       description: 'Equipamentos de última geração para seu cuidado'
