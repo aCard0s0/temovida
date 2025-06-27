@@ -15,7 +15,6 @@ import {Team} from "../components/team/team";
         ClinicalAreas,
         ContactComponent,
         MenuHeaderComponent,
-        SimpleHeader,
         Team
     ],
   templateUrl: './home.html',

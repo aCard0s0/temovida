@@ -1,0 +1,50 @@
+[
+  {
+    src: 'assets/images/carousel/consultorio1.jpeg',
+    alt: 'Instalações Modernas',
+    title: 'Instalações Modernas',
+    description: 'Equipamentos de última geração para seu cuidado'
+  },
+  {
+    src: 'assets/images/carousel/consultorio2.jpeg',
+    alt: 'Equipe Especializada',
+    title: 'Equipe Especializada',
+    description: 'Profissionais qualificados e experientes'
+  },
+  {
+    src: 'assets/images/carousel/consultorio3.jpeg',
+    alt: 'Tecnologia Avançada',
+    title: 'Tecnologia Avançada',
+    description: 'Diagnósticos precisos com tecnologia de ponta'
+  },
+  {
+    src: 'assets/images/carousel/consultorio4.jpeg',
+    alt: 'Cuidado Personalizado',
+    title: 'Cuidado Personalizado',
+    description: 'Atendimento humanizado focado em você'
+  },
+  {
+    src: 'assets/images/carousel/consultorio5.jpeg',
+    alt: 'Consultas Especializadas',
+    title: 'Consultas Especializadas',
+    description: 'Especialistas em diversas áreas médicas'
+  },
+  {
+    src: 'assets/images/carousel/consultorio6.jpeg',
+    alt: 'Tecnologia Avançada',
+    title: 'Tecnologia Avançada',
+    description: 'Diagnósticos precisos com tecnologia de ponta'
+  },
+  {
+    src: 'assets/images/carousel/consultorio7.jpeg',
+    alt: 'Cuidado Personalizado',
+    title: 'Cuidado Personalizado',
+    description: 'Atendimento humanizado focado em você'
+  },
+  {
+    src: 'assets/images/carousel/consultorio8.jpeg',
+    alt: 'Consultas Especializadas',
+    title: 'Consultas Especializadas',
+    description: 'Especialistas em diversas áreas médicas'
+  }
+]

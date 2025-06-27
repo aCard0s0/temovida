@@ -1,0 +1,26 @@
+[
+  {
+    name: 'Facebook',
+    icon: 'fab fa-facebook-f',
+    url: 'https://facebook.com/temovida',
+    color: '#1877f2'
+  },
+  {
+    name: 'Instagram',
+    icon: 'fab fa-instagram',
+    url: 'https://instagram.com/temovida',
+    color: '#e4405f'
+  },
+  {
+    name: 'LinkedIn',
+    icon: 'fab fa-linkedin-in',
+    url: 'https://linkedin.com/company/temovida',
+    color: '#0077b5'
+  },
+  {
+    name: 'YouTube',
+    icon: 'fab fa-youtube',
+    url: 'https://youtube.com/temovida',
+    color: '#ff0000'
+  }
+]

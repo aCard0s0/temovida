@@ -1,0 +1,11 @@
+{
+  address: 'Rua da Feira, Edifício São Pedro Loja C 4905-341 Barroselas e Carvoeiro',
+  phone: '+351 21 123 4567',
+  whatsapp: '+351912345678',
+  email: 'geral@temovida.pt',
+  hours: {
+    weekdays: '08:00 - 18:00',
+    saturday: '08:00 - 14:00',
+    sunday: 'Fechado'
+  }
+}

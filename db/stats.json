@@ -1,0 +1,22 @@
+[
+  {
+    number: '15+',
+    title: 'Anos de Experiência',
+    description: 'Cuidando da saúde da comunidade'
+  },
+  {
+    number: '8',
+    title: 'Especialidades',
+    description: 'Áreas médicas especializadas'
+  },
+  {
+    number: '1000+',
+    title: 'Pacientes Atendidos',
+    description: 'Vidas transformadas'
+  },
+  {
+    number: '24/7',
+    title: 'Atendimento',
+    description: 'Emergências disponível sempre'
+  }
+]
